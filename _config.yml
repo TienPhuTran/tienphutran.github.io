@@ -145,6 +145,7 @@ social:
 
 
 # Analytics
+google_analytics: G-QL6GVHYJ9Z
 analytics:
   provider               : "google-analytics-4" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
