@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "My Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,54 +11,38 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Associate of Science Computer Science, Houston Community College, August 2020 - May 2020
+* Bachelors of Science Computer Science, University of Houston, August 2023 - Fall 2025
 
-Work experience
+Projects
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* <span><strong>Skin Cancers Detection (Aug 2024 - Dec 2024)</strong></span>
+  * Developed a skin cancer detection system using TensorFlow and various machine learning models, including Convolutional Neural Networks (CNNs).
+  * Applied image preprocessing, data augmentation, model training techniques to boost detection accuracy. 
+  * Leveraged deep learning networks for feature extraction and classification, improving skin cancer identification in images.
+  * Compared and selected results from different deep learning and machine learning models to identify the best-performing model for skin cancer detection.
+  * <span style="line-height: 2.5em;"> Fine-tuned hyperparameters and applied validation techniques to ensure high accuracy in predicting cancers.</span>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* <span><strong>Online Clothing Store (Aug 2024 - Dec 2024)</strong></span>
+  * Worked with a team of four to design and implement a responsive e-commerce website for an online clothing store.
+  * Designed and developed a user-friendly interface with multiple filters for clothing products based on categories, sizes, and pricing using JavaScript, HTML, CSS, and React components.
+  * Applied database technologies to manage user accounts, store data, and handle order processing efficiently.
+  * Integrated real-time inventory management to enhance user experience.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer Building and Repair
+* Time Management
+* Problem Solving
+* Machine Learning
+  * Tensorflows
+  * CNNs
+  * LSTMs
+* Java, C++, Python, HTML/CSS, SQL
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<br>
+<br>
+
+You can download a PDF copy of my [Resume](/files/Tien_Phu_Tran_Resume.pdf) here.
+<iframe src="/files/Tien_Phu_Tran_Resume.pdf" width="100%" height="600px">
+</iframe>
