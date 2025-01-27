@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-fdafds
+I am a Computer Science student with a focus on Artificial Intelligence, currently pursuing a Bachelor of Science at the University of Houston. Experienced in developing machine learning models, particularly with TensorFlow, CNNs, and LSTMs for applications such as skin cancer detection. Proficient in multiple programming languages and frameworks including Python, TensorFlow, Java, C++, SQL, and web technologies. Adept at working in collaborative team environments and delivering innovative solutions in project settings.
 
 Education
 ======
