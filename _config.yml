@@ -28,7 +28,14 @@ author:
   location         : "Houston, TX, USA"
   employer         : "<a href='https://www.uh.edu/nsm/computer-science/' target='_blank' style='display:inline;'>University of Houston</a>"
   uri              : "https://www.uh.edu/nsm/computer-science/"
-  email            : "phu2731234@gmail.com" 
+  email            : "phu2731234@gmail.com"
+  email2           : "ttran161@uh.edu"
+
+  # UI Text
+  ui-text:
+  en:
+    email_label: "Email"
+    email_label2: "School Email"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
