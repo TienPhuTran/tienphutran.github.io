@@ -14,6 +14,5 @@ end
 
 gem 'github-pages'
 gem 'pathutil', '0.16.2'
-gem 'i18n', '0.9.5'
      # Specify a compatible version for pathutil
 
