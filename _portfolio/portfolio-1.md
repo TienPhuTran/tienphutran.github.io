@@ -1,6 +1,8 @@
 ---
 title: "Project: Approval System - Web App"
-excerpt: "Create a system for form submission with a hierarchical approval workflow.<br/><iframe width='400' height='225' src='https://www.youtube.com/embed/F-2NI3qfZ-k' frameborder='0' allowfullscreen></iframe>"
+excerpt: "<a href='https://github.com/NhatPham123tm/SoftwareDesign_Project' target='_blank'>GitHub Repository Link</a><br/>
+            Create a system for form submission with a hierarchical approval workflow.<br/>
+            <iframe width='400' height='225' src='https://www.youtube.com/embed/F-2NI3qfZ-k' frameborder='0' allowfullscreen></iframe>"
 collection: portfolio
 ---
 
@@ -14,9 +16,9 @@ collection: portfolio
 ![Approval System](/images/approval_system.png)
 
  * Working as a team to build a submission approval system.
- * Submission System: UsingHTML/CSS to build a website for user to submmit the forms. Using Django to build backend for data submission. Form data will be stored in PostgreSQL and retrieved for further actions such as modifying. When User or Employee require the PDF of submission form APIs will be called to retrive the database and add them to Latex. A subproccess will be called to convert LaTeX to PDF.
+ * Submission System: Using HTML/CSS to build a website for users to submit the forms. Using Django to build a backend for data submission. Form data will be stored in PostgreSQL and retrieved for further actions, such as modification. When a User or Employee require the PDF of the submission form, APIs will be called to retrieve the database and add them to LaTeX. A subprocess will be called to convert LaTeX to PDF. 
  * Approval System: Using Django to build workflow rules to assign form reviews to sub-units based on the
-customized hierarchy. For example, the pending forms, the trigger will be called to add assign forms to target user. In default, forms will be send to the head of different departments based on their types. The head of department can do review jobs, and they can also be delegate to another managers in other departments or same department employess. Using HTML/CSS to build a
-dynamic website for employee feature.
+customized hierarchy. For example, in the pending forms, the trigger will be called to add assigned forms to the target user. By default, forms will be sent to the head of different departments based on their types. The head of the department can do review jobs, and they can also be delegated to another manager in other departments or the same department's employees. Using HTML/CSS to build a 
+dynamic website for employee features. 
  * Collaborating with another team to integrate and expand the service using Django and React.
- * Tools Used: Django, React, Latex, PostgreSQL, HTML/CSS
+ * Tools Used: Django, React, LaTeX, PostgreSQL, HTML/CSS
