@@ -28,13 +28,28 @@ Projects
   * Applied database technologies to manage user accounts, store data, and handle order processing efficiently.
   * Integrated real-time inventory management to enhance user experience.
 
+* <span><strong>COVID 19 Detection (Jan 2025 - May 2025)</strong></span>
+  * Using Pytorch, Pandas, and Scikit-learn, to build a COVID detection system with multiple algorithm methods.
+  * Develop and implement customized CNN models and pretrained models. Apply preprocessing, transforming,
+  and fine-tuning to optimize COVID-19 Prediction.
+  * Customized CNN and pretrained models were applied to perform feature extraction. Implement LSTM and
+  machine learning methods to predict COVID-19.
+  * Compared results and optimized model layers and parameters.
+
+* <span><strong>Approval System (Jan 2025 - May 2025)</strong></span>
+  * Working as a team to build a submission approval system.
+  * Submission System: Using Django and HTML/CSS to build a website for form submissions. Form data will be
+  stored in PostgreSQL and retrieved for further actions such as adjusting or converting LaTeX to PDF.
+  * Approval System: Using Django to build workflow rules to assign form reviews to sub-units based on the
+  customized hierarchy. The review jobs can also be delegated to another person. Using HTML/CSS to build a
+  dynamic website for employee feature.
+  * Collaborating with another team to integrate and expand the service using Django and React.
+
 Skills
 ======
-* Computer Building and Repair
-* Time Management
-* Problem Solving
-* Machine Learning
-  * Tensorflows
-  * CNNs
-  * LSTMs
-* Java, C++, Python, HTML/CSS, SQL
+* Soft Skills: Computer Building and Repairing, Time Management, Problem Solving, Teamwork, Adaptability,
+Leadership.
+* Languages: C++, Java, Python, JavaScript, HTML/CSS, SQL
+* Frameworks/Libraries: React, .NET, Node.js, Express.js, Django, Makefile
+* Machine Learning: Tensorflow, Auto-Keras, PyTorch, CNNs, LSTMs
+* Development Tools: Git, Docker, Anaconda, Visual Studio Code, Matlab
